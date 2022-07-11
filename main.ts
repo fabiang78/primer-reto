@@ -8,6 +8,8 @@ input.onGesture(Gesture.TiltLeft, function () {
     basic.pause(1000)
     basic.showString("I")
 })
+basic.showString("Hola")
+basic.showString("Soy Fabian")
 basic.forever(function () {
 	
 })
